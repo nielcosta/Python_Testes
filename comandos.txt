@@ -15,3 +15,7 @@ python -m venv .venv            - Cria uma máquina virtual com nome venv
  git init
 
  // Status dos arquivos  - git status
+
+ // Para Envio  dos arquivos  para o GitHub
+  git add aula.ipynb     
+  git commit -m "(Texto de Identificação de Envio)" 
