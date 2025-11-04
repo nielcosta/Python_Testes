@@ -1,0 +1,17 @@
+pip list - Listar bibliotecas instaladas 
+pip freeze - Listar as versões das Bibliotecas instaladas
+python.exe -m pip install --upgrade pip - Upgrade do python e Bibliotecas
+pip install -r requirements.txt  - Instala Bibliotecas  inclusas no arquivo.txt
+
+// Criar máquina virtual 
+python -m venv .venv            - Cria uma máquina virtual com nome venv
+ .\.venv\Scripts\activate       - Ativa a máquina virtualpip 
+
+ // Pegar as versões das Bibliotecas e salvar no arquivo.txt
+ pip freeze > .\requirements.txt
+
+ // Iniciar Git 
+
+ git init
+
+ // Status dos arquivos  - git status
