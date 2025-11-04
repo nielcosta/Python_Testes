@@ -18,4 +18,9 @@ python -m venv .venv            - Cria uma máquina virtual com nome venv
 
  // Para Envio  dos arquivos  para o GitHub
   git add aula.ipynb     
-  git commit -m "(Texto de Identificação de Envio)" 
+  git commit -m "(Texto de Identificação de Envio)"
+  git branch -M main
+  git remote add origin (Caminho da Pasta do GitHub) - Feito só uma vez. 
+  git push -u origin main
+
+
